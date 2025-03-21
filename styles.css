@@ -34,7 +34,7 @@ header {
 }
 
 .logo-img {
-    max-width: 80px;
+    max-width: 150px;
     height: auto;
     margin-right: 15px;
     transition: transform 0.3s ease;
